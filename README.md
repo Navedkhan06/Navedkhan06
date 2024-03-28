@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working on **My Project**
+- 🔭 I’m currently working on **My Minor Project**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
